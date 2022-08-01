@@ -1,0 +1,111 @@
+Output when Clusters are swapped:
+
+Total errors 95.9 %
+Clusters are swapped
+Swapping Predicted_Class
+
+
+Number of Data points in Predicted Class 2: 465
+Number of Data points in Predicted Class 4: 234 
+
+Error data points, Predicted_Class 2: 
+
+         Scn  Class  Predicted_Class
+12   1041801      4                2
+15   1047630      4                2
+23   1057013      4                2
+50   1108370      4                2
+51   1108449      4                2
+57   1113038      4                2
+59   1113906      4                2
+63   1116132      4                2
+65   1116998      4                2
+101  1167439      4                2
+103  1168359      4                2
+105  1169049      4                2
+222  1226012      4                2
+273   428903      4                2
+348   832226      4                2
+356   859164      4                2
+455  1246562      4                2
+489  1084139      4                2
+
+
+Error data points, Predicted_Class 4: 
+
+         Scn  Class  Predicted_Class
+1    1002945      2                4
+3    1016277      2                4
+40   1096800      2                4
+196  1213375      2                4
+252  1017023      2                4
+259   242970      2                4
+296   616240      2                4
+315   704168      2                4
+319   721482      2                4
+352   846832      2                4
+434  1293439      2                4
+
+
+Number of all data points: 699 
+
+Number of error data points: 29 
+
+Error rate for class 2: 3.9 %
+Error rate for class 4: 4.7 %
+Total error rate: 4.1 %
+
+
+Output when Clusters are not swapped:
+
+Total errors 4.3 %
+Number of Data points in Predicted Class 2: 466
+Number of Data points in Predicted Class 4: 233 
+
+Error data points, Predicted_Class 2: 
+
+         Scn  Class  Predicted_Class
+12   1041801      4                2
+15   1047630      4                2
+23   1057013      4                2
+25   1065726      4                2
+50   1108370      4                2
+51   1108449      4                2
+57   1113038      4                2
+59   1113906      4                2
+63   1116132      4                2
+65   1116998      4                2
+101  1167439      4                2
+103  1168359      4                2
+105  1169049      4                2
+222  1226012      4                2
+273   428903      4                2
+348   832226      4                2
+356   859164      4                2
+455  1246562      4                2
+489  1084139      4                2
+
+
+Error data points, Predicted_Class 4: 
+
+         Scn  Class  Predicted_Class
+1    1002945      2                4
+3    1016277      2                4
+40   1096800      2                4
+196  1213375      2                4
+252  1017023      2                4
+259   242970      2                4
+296   616240      2                4
+315   704168      2                4
+319   721482      2                4
+352   846832      2                4
+434  1293439      2                4
+
+
+Number of all data points: 699 
+
+Number of error data points: 30 
+
+Error rate for class 2: 4.1 %
+Error rate for class 4: 4.7 %
+Total error rate: 4.3 %
