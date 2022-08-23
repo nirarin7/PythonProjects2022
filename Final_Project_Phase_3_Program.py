@@ -1,9 +1,4 @@
 
-##Final Project Submission 3
-##Final_Project_Phase_3.py
-##Author: Arin Esterbrook
-##Date: 4/22/2022
-
 import pandas as pd
 import numpy as np
 import math
